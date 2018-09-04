@@ -1,0 +1,2042 @@
+[	
+	{"year":"Jan-16","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 27272,
+			 "engagement": 21.41,
+			 "buying": 3.11,
+			 "bigbrowser": 21.03622763,
+			 "tablet": 5.261806982,
+			 "mobile": 73.70196539
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 25698,
+			 "engagement": 10.41,
+			 "buying": 1.7,
+			 "bigbrowser": 41.17051911,
+			 "tablet": 19.86535917,
+			 "mobile": 38.96412172
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 334003,
+			 "engagement": 4.33,
+			 "buying": 18.56,
+			 "bigbrowser": 19.18126484,
+			 "tablet": 17.51062116,
+			 "mobile": 63.308114
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 164072,
+			 "engagement": 5.84,
+			 "buying": 25.12,
+			 "bigbrowser": 22.87654201,
+			 "tablet": 4.227412356,
+			 "mobile": 72.89604564
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 154890,
+			 "engagement": 7.58,
+			 "buying": 14.31,
+			 "bigbrowser": 15.87642843,
+			 "tablet": 6.247659629,
+			 "mobile": 77.87591194
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 44329,
+			 "engagement": 6,
+			 "buying": 7.18,
+			 "bigbrowser": 30.30747366,
+			 "tablet": 4.872656726,
+			 "mobile": 64.81986961
+		  }
+	]},  
+	{"year":"Feb-16", "performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 47650,
+			 "engagement": 15.79,
+			 "buying": 1.86,
+			 "bigbrowser": 15.95592865,
+			 "tablet": 4.461699895,
+			 "mobile": 79.58237146
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 35999,
+			 "engagement": 13.89,
+			 "buying": 1.39,
+			 "bigbrowser": 23.62843412,
+			 "tablet": 6.261285036,
+			 "mobile": 70.11028084
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 272306,
+			 "engagement": 5.67,
+			 "buying": 6.2,
+			 "bigbrowser": 29.30416517,
+			 "tablet": 7.208434629,
+			 "mobile": 63.4874002
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 183984,
+			 "engagement": 4.71,
+			 "buying": 9.36,
+			 "bigbrowser": 18.34670406,
+			 "tablet": 3.198104183,
+			 "mobile": 78.45519176
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 104720,
+			 "engagement": 9.39,
+			 "buying": 10.27,
+			 "bigbrowser": 20.65221543,
+			 "tablet": 4.011650115,
+			 "mobile": 75.33613445
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 65618,
+			 "engagement": 5.55,
+			 "buying": 8.47,
+			 "bigbrowser": 24.26163553,
+			 "tablet": 4.864518882,
+			 "mobile": 70.87384559
+		  }
+	]},
+	{"year":"Mar-16","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 33107,
+			 "engagement": 19.31,
+			 "buying": 2.87,
+			 "bigbrowser": 22.88035763,
+			 "tablet": 4.207569396,
+			 "mobile": 72.91207298
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 22306,
+			 "engagement": 16.1,
+			 "buying": 2.34,
+			 "bigbrowser": 31.64619385,
+			 "tablet": 5.240742401,
+			 "mobile": 63.11306375
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 201292,
+			 "engagement": 7.52,
+			 "buying": 4.59,
+			 "bigbrowser": 29.56351966,
+			 "tablet": 5.21978022,
+			 "mobile": 65.21670012
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 128477,
+			 "engagement": 6.89,
+			 "buying": 6.59,
+			 "bigbrowser": 23.05471018,
+			 "tablet": 4.370432062,
+			 "mobile": 72.57485776
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 104213,
+			 "engagement": 9.61,
+			 "buying": 11.85,
+			 "bigbrowser": 18.5629432,
+			 "tablet": 3.276942416,
+			 "mobile": 78.16011438
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 82505,
+			 "engagement": 4.82,
+			 "buying": 37.31,
+			 "bigbrowser": 30.79328526,
+			 "tablet": 15.74934852,
+			 "mobile": 53.45736622
+		  }
+	]},
+	{"year":"Apr-16","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 69156,
+			 "engagement": 9,
+			 "buying": 1.42,
+			 "bigbrowser": 11.23691364,
+			 "tablet": 9.495922263,
+			 "mobile": 79.26716409
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 38967,
+			 "engagement": 10.11,
+			 "buying": 1.38,
+			 "bigbrowser": 19.20342854,
+			 "tablet": 9.844227167,
+			 "mobile": 70.95234429
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 238020,
+			 "engagement": 7.33,
+			 "buying": 11.95,
+			 "bigbrowser": 25.70960423,
+			 "tablet": 3.932442652,
+			 "mobile": 70.35795311
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 148211,
+			 "engagement": 7.14,
+			 "buying": 12.99,
+			 "bigbrowser": 21.42148693,
+			 "tablet": 3.834398257,
+			 "mobile": 74.74411481
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 141400,
+			 "engagement": 7.34,
+			 "buying": 12.26,
+			 "bigbrowser": 21.98231966,
+			 "tablet": 2.928571429,
+			 "mobile": 75.08910891
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 117187,
+			 "engagement": 3.42,
+			 "buying": 26.63,
+			 "bigbrowser": 16.95153899,
+			 "tablet": 17.75196908,
+			 "mobile": 65.29649193
+		  }
+	]},
+	{"year":"May-16","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 28368,
+			 "engagement": 20.37,
+			 "buying": 3.25,
+			 "bigbrowser": 22.03891709,
+			 "tablet": 7.265228426,
+			 "mobile": 70.69585448
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 18969,
+			 "engagement": 15.34,
+			 "buying": 8.18,
+			 "bigbrowser": 33.21208287,
+			 "tablet": 8.002530444,
+			 "mobile": 58.78538668
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 251608,
+			 "engagement": 7.93,
+			 "buying": 17.39,
+			 "bigbrowser": 25.86285015,
+			 "tablet": 3.990334171,
+			 "mobile": 70.14681568
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 110463,
+			 "engagement": 8.25,
+			 "buying": 16.22,
+			 "bigbrowser": 33.04454885,
+			 "tablet": 3.881842789,
+			 "mobile": 63.07360836
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 95437,
+			 "engagement": 9.09,
+			 "buying": 10.09,
+			 "bigbrowser": 21.30829762,
+			 "tablet": 3.314228234,
+			 "mobile": 75.37747415
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 46024,
+			 "engagement": 5.44,
+			 "buying": 19.93,
+			 "bigbrowser": 27.42264905,
+			 "tablet": 7.050669216,
+			 "mobile": 65.52668173
+		  }
+	]},
+	{"year":"Jun-16","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 33148,
+			 "engagement": 19.45,
+			 "buying": 31.58,
+			 "bigbrowser": 17.47918426,
+			 "tablet": 4.187281284,
+			 "mobile": 78.33353445
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 66931,
+			 "engagement": 7.26,
+			 "buying": 69.71,
+			 "bigbrowser": 14.82422196,
+			 "tablet": 14.28187238,
+			 "mobile": 70.89390566
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 330303,
+			 "engagement": 4.22,
+			 "buying": 19.94,
+			 "bigbrowser": 16.80638686,
+			 "tablet": 7.466174997,
+			 "mobile": 75.72743814
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 127420,
+			 "engagement": 5.72,
+			 "buying": 21.09,
+			 "bigbrowser": 28.22241406,
+			 "tablet": 2.897504316,
+			 "mobile": 68.88008162
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 192069,
+			 "engagement": 6.35,
+			 "buying": 16.04,
+			 "bigbrowser": 14.0506797,
+			 "tablet": 2.424649475,
+			 "mobile": 83.52467082
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 64352,
+			 "engagement": 4.91,
+			 "buying": 23.53,
+			 "bigbrowser": 24.36443312,
+			 "tablet": 6.012245152,
+			 "mobile": 69.62332173
+		  }
+	]},
+	{"year":"Jul-16","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 28159,
+			 "engagement": 21.58,
+			 "buying": 15.31,
+			 "bigbrowser": 17.24848184,
+			 "tablet": 5.106715437,
+			 "mobile": 77.64480273
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 37399,
+			 "engagement": 10.04,
+			 "buying": 37.85,
+			 "bigbrowser": 18.23310784,
+			 "tablet": 15.28383112,
+			 "mobile": 66.48306104
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 212383,
+			 "engagement": 5.32,
+			 "buying": 18.1,
+			 "bigbrowser": 19.33299746,
+			 "tablet": 4.448566976,
+			 "mobile": 76.21843556
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 94316,
+			 "engagement": 5.2,
+			 "buying": 26.44,
+			 "bigbrowser": 41.28249714,
+			 "tablet": 2.414224522,
+			 "mobile": 56.30327834
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 273433,
+			 "engagement": 3.17,
+			 "buying": 5.29,
+			 "bigbrowser": 54.38443787,
+			 "tablet": 1.112155446,
+			 "mobile": 44.50340668
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 74505,
+			 "engagement": 2.48,
+			 "buying": 13.86,
+			 "bigbrowser": 30.64626535,
+			 "tablet": 7.678679283,
+			 "mobile": 61.67505537
+		  }
+	]},
+	{"year":"Aug-16","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 31290,
+			 "engagement": 21.98,
+			 "buying": 3.31,
+			 "bigbrowser": 19.35123043,
+			 "tablet": 3.141578779,
+			 "mobile": 77.5071908
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 21122,
+			 "engagement": 20.23,
+			 "buying": 5.31,
+			 "bigbrowser": 28.0513209,
+			 "tablet": 5.979547391,
+			 "mobile": 65.96913171
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 139441,
+			 "engagement": 8.49,
+			 "buying": 18.3,
+			 "bigbrowser": 22.74510366,
+			 "tablet": 3.189879591,
+			 "mobile": 74.06501675
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 48674,
+			 "engagement": 10.28,
+			 "buying": 6.01,
+			 "bigbrowser": 40.51238854,
+			 "tablet": 3.12281711,
+			 "mobile": 56.36479435
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 101336,
+			 "engagement": 9.99,
+			 "buying": 9.67,
+			 "bigbrowser": 15.83149128,
+			 "tablet": 1.808833978,
+			 "mobile": 82.35967475
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 22934,
+			 "engagement": 7.4,
+			 "buying": 6.54,
+			 "bigbrowser": 29.2229877,
+			 "tablet": 6.174239121,
+			 "mobile": 64.60277318
+		  }
+	]},
+	{"year":"Sep-16","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 41948,
+			 "engagement": 15.2,
+			 "buying": 2.84,
+			 "bigbrowser": 17.54791647,
+			 "tablet": 5.840564508,
+			 "mobile": 76.61151902
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 33180,
+			 "engagement": 12.06,
+			 "buying": 2.26,
+			 "bigbrowser": 26.63954189,
+			 "tablet": 6.033755274,
+			 "mobile": 67.32670283
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 141659,
+			 "engagement": 6.92,
+			 "buying": 32.71,
+			 "bigbrowser": 21.10490685,
+			 "tablet": 3.060165609,
+			 "mobile": 75.83492754
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 61515,
+			 "engagement": 9.18,
+			 "buying": 1.93,
+			 "bigbrowser": 33.31057466,
+			 "tablet": 3.095180037,
+			 "mobile": 63.59424531
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 116380,
+			 "engagement": 8.49,
+			 "buying": 14.77,
+			 "bigbrowser": 17.02955834,
+			 "tablet": 1.876611102,
+			 "mobile": 81.09383056
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 23824,
+			 "engagement": 6.94,
+			 "buying": 5.73,
+			 "bigbrowser": 29.4996642,
+			 "tablet": 4.48707186,
+			 "mobile": 66.01326394
+		  }
+	]},
+	{"year":"Oct-16","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 33372,
+			 "engagement": 20.24,
+			 "buying": 2.26,
+			 "bigbrowser": 16.21419154,
+			 "tablet": 4.842382836,
+			 "mobile": 78.94342563
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 27775,
+			 "engagement": 12.2,
+			 "buying": 2.6,
+			 "bigbrowser": 18.46624662,
+			 "tablet": 6.783078308,
+			 "mobile": 74.75067507
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 152989,
+			 "engagement": 6.91,
+			 "buying": 18.32,
+			 "bigbrowser": 22.44671186,
+			 "tablet": 3.408088163,
+			 "mobile": 74.14519998
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 186012,
+			 "engagement": 5.29,
+			 "buying": 3.67,
+			 "bigbrowser": 17.71122293,
+			 "tablet": 4.592176849,
+			 "mobile": 77.69660022
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 107970,
+			 "engagement": 7.99,
+			 "buying": 6.9,
+			 "bigbrowser": 14.65870149,
+			 "tablet": 2.536815782,
+			 "mobile": 82.80448273
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 36733,
+			 "engagement": 6.29,
+			 "buying": 5.03,
+			 "bigbrowser": 32.54022269,
+			 "tablet": 3.914736068,
+			 "mobile": 63.54504124
+		  }
+	]},
+	{"year":"Nov-16","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 25277,
+			 "engagement": 21.75,
+			 "buying": 3.15,
+			 "bigbrowser": 19.44455434,
+			 "tablet": 4.118368477,
+			 "mobile": 76.43707718
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 17107,
+			 "engagement": 18.4,
+			 "buying": 2.88,
+			 "bigbrowser": 29.04658912,
+			 "tablet": 5.664347928,
+			 "mobile": 65.28906296
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 163155,
+			 "engagement": 6.13,
+			 "buying": 18.05,
+			 "bigbrowser": 20.49768625,
+			 "tablet": 3.096442034,
+			 "mobile": 76.40587172
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 290556,
+			 "engagement": 2.82,
+			 "buying": 3.84,
+			 "bigbrowser": 10.96793733,
+			 "tablet": 2.957777502,
+			 "mobile": 86.07428516
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 170862,
+			 "engagement": 5.65,
+			 "buying": 6.31,
+			 "bigbrowser": 15.61962285,
+			 "tablet": 4.737156302,
+			 "mobile": 79.64322084
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 58783,
+			 "engagement": 4.01,
+			 "buying": 10.79,
+			 "bigbrowser": 30.86606672,
+			 "tablet": 5.038871783,
+			 "mobile": 64.0950615
+		  }
+	]},
+	{"year":"Dec-16","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 24707,
+			 "engagement": 23.34,
+			 "buying": 3.16,
+			 "bigbrowser": 21.81163233,
+			 "tablet": 3.169142348,
+			 "mobile": 75.01922532
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 15660,
+			 "engagement": 19.5,
+			 "buying": 2.96,
+			 "bigbrowser": 30.77905492,
+			 "tablet": 4.259259259,
+			 "mobile": 64.96168582
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 192549,
+			 "engagement": 5.22,
+			 "buying": 18.82,
+			 "bigbrowser": 19.43868833,
+			 "tablet": 3.516507486,
+			 "mobile": 77.04480418
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 258297,
+			 "engagement": 2.81,
+			 "buying": 4.56,
+			 "bigbrowser": 15.33699578,
+			 "tablet": 4.101092928,
+			 "mobile": 80.56191129
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 134117,
+			 "engagement": 6.49,
+			 "buying": 8.63,
+			 "bigbrowser": 15.95696295,
+			 "tablet": 3.444753462,
+			 "mobile": 80.59828359
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 57165,
+			 "engagement": 4.12,
+			 "buying": 13.39,
+			 "bigbrowser": 25.03804776,
+			 "tablet": 3.384938336,
+			 "mobile": 71.57701391
+		  }
+	]},
+	{"year":"Jan-17","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 16745,
+			 "engagement": 24.42,
+			 "buying": 3.27,
+			 "bigbrowser": 21.89907435,
+			 "tablet": 3.129292326,
+			 "mobile": 74.97163332
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 12340,
+			 "engagement": 22.35,
+			 "buying": 3.57,
+			 "bigbrowser": 35.87520259,
+			 "tablet": 3.354943274,
+			 "mobile": 60.76985413
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 183381,
+			 "engagement": 4.12,
+			 "buying": 13.36,
+			 "bigbrowser": 25.48628266,
+			 "tablet": 7.627834945,
+			 "mobile": 66.8858824
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 160251,
+			 "engagement": 4.68,
+			 "buying": 7.56,
+			 "bigbrowser": 19.89815976,
+			 "tablet": 4.023063819,
+			 "mobile": 76.07877642
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 110323,
+			 "engagement": 7.4,
+			 "buying": 9.88,
+			 "bigbrowser": 17.0780345,
+			 "tablet": 2.1065417,
+			 "mobile": 80.8154238
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 48561,
+			 "engagement": 5.57,
+			 "buying": 12.48,
+			 "bigbrowser": 25.64197607,
+			 "tablet": 4.682770124,
+			 "mobile": 69.6752538
+		  }
+	]},
+	{"year":"Feb-17","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 15351,
+			 "engagement": 30.51,
+			 "buying": 3.52,
+			 "bigbrowser": 20.71526285,
+			 "tablet": 3.400429939,
+			 "mobile": 75.88430721
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 10458,
+			 "engagement": 22.55,
+			 "buying": 3.84,
+			 "bigbrowser": 39.7016638,
+			 "tablet": 3.337158156,
+			 "mobile": 56.96117805
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 166887,
+			 "engagement": 3.73,
+			 "buying": 7.16,
+			 "bigbrowser": 24.01385369,
+			 "tablet": 6.472043958,
+			 "mobile": 69.51410236
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 136626,
+			 "engagement": 4.86,
+			 "buying": 16.28,
+			 "bigbrowser": 21.37953245,
+			 "tablet": 3.500797798,
+			 "mobile": 75.11966976
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 91198,
+			 "engagement": 8.61,
+			 "buying": 8.27,
+			 "bigbrowser": 15.01239062,
+			 "tablet": 2.368472993,
+			 "mobile": 82.61913638
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 65869,
+			 "engagement": 3.74,
+			 "buying": 12.05,
+			 "bigbrowser": 22.24566943,
+			 "tablet": 5.741699434,
+			 "mobile": 72.01263113
+		  }
+	]},
+	{"year":"Mar-17","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 24059,
+			 "engagement": 27.8,
+			 "buying": 2.7,
+			 "bigbrowser": 18.84118209,
+			 "tablet": 4.181387423,
+			 "mobile": 76.97743048
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 16341,
+			 "engagement": 20.73,
+			 "buying": 2.41,
+			 "bigbrowser": 30.83654611,
+			 "tablet": 4.430573404,
+			 "mobile": 64.73288048
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 380332,
+			 "engagement": 2.21,
+			 "buying": 6.18,
+			 "bigbrowser": 14.7697275,
+			 "tablet": 4.235772956,
+			 "mobile": 80.99449954
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 216184,
+			 "engagement": 3.25,
+			 "buying": 22.02,
+			 "bigbrowser": 17.4624394,
+			 "tablet": 3.631628613,
+			 "mobile": 78.90593198
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 176719,
+			 "engagement": 5.93,
+			 "buying": 5.31,
+			 "bigbrowser": 9.653178209,
+			 "tablet": 6.281158223,
+			 "mobile": 84.06566357
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 93791,
+			 "engagement": 2.87,
+			 "buying": 8.52,
+			 "bigbrowser": 15.34155729,
+			 "tablet": 5.657259225,
+			 "mobile": 79.00118348
+		  }
+	]},
+	{"year":"Apr-17","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 20103,
+			 "engagement": 24.61,
+			 "buying": 2.9,
+			 "bigbrowser": 20.88742974,
+			 "tablet": 3.556683082,
+			 "mobile": 75.55588718
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 15625,
+			 "engagement": 23.21,
+			 "buying": 2.26,
+			 "bigbrowser": 31.4496,
+			 "tablet": 4.7744,
+			 "mobile": 63.776
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 185536,
+			 "engagement": 4.61,
+			 "buying": 5,
+			 "bigbrowser": 21.36620386,
+			 "tablet": 3.781476371,
+			 "mobile": 74.85231977
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 156560,
+			 "engagement": 4.49,
+			 "buying": 2.12,
+			 "bigbrowser": 21.33750639,
+			 "tablet": 4.15112417,
+			 "mobile": 74.51136944
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 96800,
+			 "engagement": 8.52,
+			 "buying": 6.31,
+			 "bigbrowser": 16.46177686,
+			 "tablet": 3.761363636,
+			 "mobile": 79.7768595
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 87930,
+			 "engagement": 3.45,
+			 "buying": 13.85,
+			 "bigbrowser": 14.2454225,
+			 "tablet": 8.540884795,
+			 "mobile": 77.21369271
+		  }
+	]},
+	{"year":"May-17","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 51081,
+			 "engagement": 14.26,
+			 "buying": 16.51,
+			 "bigbrowser": 12.01033652,
+			 "tablet": 11.26446232,
+			 "mobile": 76.72520115
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 37532,
+			 "engagement": 9.79,
+			 "buying": 21.51,
+			 "bigbrowser": 19.19428754,
+			 "tablet": 9.860918683,
+			 "mobile": 70.94479378
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 276018,
+			 "engagement": 2.77,
+			 "buying": 41.94,
+			 "bigbrowser": 15.92432378,
+			 "tablet": 2.484258273,
+			 "mobile": 81.59141795
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 158796,
+			 "engagement": 4.49,
+			 "buying": 18.32,
+			 "bigbrowser": 17.75233633,
+			 "tablet": 2.537217562,
+			 "mobile": 79.71044611
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 138511,
+			 "engagement": 5.94,
+			 "buying": 10.82,
+			 "bigbrowser": 10.58399694,
+			 "tablet": 2.873417996,
+			 "mobile": 86.54258507
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 79182,
+			 "engagement": 3.37,
+			 "buying": 16.99,
+			 "bigbrowser": 17.49766361,
+			 "tablet": 4.233285343,
+			 "mobile": 78.26905105
+		  }
+	]},
+	{"year":"Jun-17","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 101194,
+			 "engagement": 7.99,
+			 "buying": 25.03,
+			 "bigbrowser": 4.475561792,
+			 "tablet": 9.810858351,
+			 "mobile": 85.71357986
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 65821,
+			 "engagement": 8.38,
+			 "buying": 45.61,
+			 "bigbrowser": 13.11131706,
+			 "tablet": 5.738290211,
+			 "mobile": 81.15039273
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 314993,
+			 "engagement": 2.01,
+			 "buying": 49.52,
+			 "bigbrowser": 9.924347525,
+			 "tablet": 2.003219119,
+			 "mobile": 88.07243336
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 122877,
+			 "engagement": 4.7,
+			 "buying": 26.83,
+			 "bigbrowser": 18.16043686,
+			 "tablet": 2.314509632,
+			 "mobile": 79.52505351
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 145823,
+			 "engagement": 5.53,
+			 "buying": 8.79,
+			 "bigbrowser": 6.550407,
+			 "tablet": 2.490690769,
+			 "mobile": 90.95890223
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 82569,
+			 "engagement": 3.3,
+			 "buying": 13.02,
+			 "bigbrowser": 11.7380615,
+			 "tablet": 3.720524652,
+			 "mobile": 84.54141385
+		  }
+	]},
+	{"year":"Jul-17","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 19197,
+			 "engagement": 23.26,
+			 "buying": 2.63,
+			 "bigbrowser": 13.21560661,
+			 "tablet": 4.594467886,
+			 "mobile": 82.18992551
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 10686,
+			 "engagement": 22.89,
+			 "buying": 2.15,
+			 "bigbrowser": 28.81340071,
+			 "tablet": 4.314055774,
+			 "mobile": 66.87254351
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 194883,
+			 "engagement": 3.39,
+			 "buying": 35.14,
+			 "bigbrowser": 14.55386052,
+			 "tablet": 2.355259309,
+			 "mobile": 83.09088017
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 66378,
+			 "engagement": 7.63,
+			 "buying": 4.56,
+			 "bigbrowser": 27.9912019,
+			 "tablet": 2.362228449,
+			 "mobile": 69.64656965
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 103700,
+			 "engagement": 6.78,
+			 "buying": 6.4,
+			 "bigbrowser": 7.87270974,
+			 "tablet": 1.62584378,
+			 "mobile": 90.50144648
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 34368,
+			 "engagement": 4.75,
+			 "buying": 4.61,
+			 "bigbrowser": 17.63850093,
+			 "tablet": 2.857309125,
+			 "mobile": 79.50418994
+		  }
+	]},
+	{"year":"Aug-17","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 24464,
+			 "engagement": 22.44,
+			 "buying": 1.9,
+			 "bigbrowser": 11.21648136,
+			 "tablet": 2.550686723,
+			 "mobile": 86.23283192
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 12569,
+			 "engagement": 21.54,
+			 "buying": 2.13,
+			 "bigbrowser": 27.64738643,
+			 "tablet": 3.755270905,
+			 "mobile": 68.59734267
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 128963,
+			 "engagement": 5.45,
+			 "buying": 7.29,
+			 "bigbrowser": 19.55987376,
+			 "tablet": 2.792273753,
+			 "mobile": 77.64785248
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 138285,
+			 "engagement": 4.14,
+			 "buying": 46.91,
+			 "bigbrowser": 16.19192248,
+			 "tablet": 2.329970713,
+			 "mobile": 81.47810681
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 84821,
+			 "engagement": 7.71,
+			 "buying": 4.87,
+			 "bigbrowser": 8.896381792,
+			 "tablet": 1.771966848,
+			 "mobile": 89.33165136
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 27343,
+			 "engagement": 5.77,
+			 "buying": 7.13,
+			 "bigbrowser": 22.29089712,
+			 "tablet": 3.291518853,
+			 "mobile": 74.41758403
+		  }
+	]},
+	{"year":"Sep-17","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 32186,
+			 "engagement": 16.31,
+			 "buying": 1.42,
+			 "bigbrowser": 13.69850245,
+			 "tablet": 2.650220593,
+			 "mobile": 83.65127695
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 19239,
+			 "engagement": 14.16,
+			 "buying": 1.29,
+			 "bigbrowser": 30.95795,
+			 "tablet": 5.384895265,
+			 "mobile": 63.65715474
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 178734,
+			 "engagement": 3.64,
+			 "buying": 5.91,
+			 "bigbrowser": 13.98614701,
+			 "tablet": 2.014725794,
+			 "mobile": 83.99912719
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 144460,
+			 "engagement": 3.88,
+			 "buying": 53.9,
+			 "bigbrowser": 14.17693479,
+			 "tablet": 2.420739305,
+			 "mobile": 83.4023259
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 95147,
+			 "engagement": 5.48,
+			 "buying": 3.02,
+			 "bigbrowser": 9.620902393,
+			 "tablet": 1.890758511,
+			 "mobile": 88.4883391
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 56220,
+			 "engagement": 3.16,
+			 "buying": 16.02,
+			 "bigbrowser": 13.27463536,
+			 "tablet": 2.749911064,
+			 "mobile": 83.97545358
+		  }
+	]},
+	{"year":"Oct-17","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 65163,
+			 "engagement": 7.63,
+			 "buying": 0.7,
+			 "bigbrowser": 10.88654605,
+			 "tablet": 2.613446281,
+			 "mobile": 86.50000767
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 72414,
+			 "engagement": 3.65,
+			 "buying": 0.35,
+			 "bigbrowser": 10.87911177,
+			 "tablet": 9.4884967,
+			 "mobile": 79.63239153
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 269468,
+			 "engagement": 3.04,
+			 "buying": 6.34,
+			 "bigbrowser": 13.16594178,
+			 "tablet": 2.015823771,
+			 "mobile": 84.81823445
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 161145,
+			 "engagement": 4.31,
+			 "buying": 5.8,
+			 "bigbrowser": 15.99242918,
+			 "tablet": 2.779484315,
+			 "mobile": 81.22808651
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 246837,
+			 "engagement": 2.29,
+			 "buying": 1.15,
+			 "bigbrowser": 5.074603888,
+			 "tablet": 1.480329124,
+			 "mobile": 93.44506699
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 67345,
+			 "engagement": 2.48,
+			 "buying": 14.08,
+			 "bigbrowser": 14.68705917,
+			 "tablet": 3.79686688,
+			 "mobile": 81.51607395
+		  }
+	]},
+	{"year":"Nov-17","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 41714,
+			 "engagement": 7.93,
+			 "buying": 0.88,
+			 "bigbrowser": 9.783286187,
+			 "tablet": 2.179124515,
+			 "mobile": 88.0375893
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 20375,
+			 "engagement": 11.45,
+			 "buying": 1.21,
+			 "bigbrowser": 23.07239264,
+			 "tablet": 3.62208589,
+			 "mobile": 73.30552147
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 206940,
+			 "engagement": 4.03,
+			 "buying": 10.38,
+			 "bigbrowser": 16.9160143,
+			 "tablet": 2.890692954,
+			 "mobile": 80.19329274
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 248468,
+			 "engagement": 3.08,
+			 "buying": 5.39,
+			 "bigbrowser": 11.72344125,
+			 "tablet": 2.660704799,
+			 "mobile": 85.61585395
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 122653,
+			 "engagement": 4.41,
+			 "buying": 2.6,
+			 "bigbrowser": 9.188523721,
+			 "tablet": 3.562896953,
+			 "mobile": 87.24857933
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 36614,
+			 "engagement": 3.8,
+			 "buying": 3.65,
+			 "bigbrowser": 20.08521331,
+			 "tablet": 3.441306604,
+			 "mobile": 76.47348009
+		  }
+	]},
+	{"year":"Dec-17","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 37833,
+			 "engagement": 7.62,
+			 "buying": 0.73,
+			 "bigbrowser": 8.455581106,
+			 "tablet": 2.135701636,
+			 "mobile": 89.40871726
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 17278,
+			 "engagement": 9.69,
+			 "buying": 0.94,
+			 "bigbrowser": 25.89998842,
+			 "tablet": 2.413473782,
+			 "mobile": 71.68653779
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 373707,
+			 "engagement": 2.43,
+			 "buying": 38.26,
+			 "bigbrowser": 10.79803161,
+			 "tablet": 2.189148183,
+			 "mobile": 87.0128202
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 238903,
+			 "engagement": 2.53,
+			 "buying": 4.8,
+			 "bigbrowser": 12.01952257,
+			 "tablet": 2.796113904,
+			 "mobile": 85.18436353
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 190898,
+			 "engagement": 3.14,
+			 "buying": 2.78,
+			 "bigbrowser": 11.71463295,
+			 "tablet": 5.021005982,
+			 "mobile": 83.26436107
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 54965,
+			 "engagement": 2.52,
+			 "buying": 3.06,
+			 "bigbrowser": 24.47739471,
+			 "tablet": 5.967433822,
+			 "mobile": 69.55517147
+		  }
+	]},
+	{"year":"Jan-18","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 25309,
+			 "engagement": 12.02,
+			 "buying": 1.17,
+			 "bigbrowser": 11.15018373,
+			 "tablet": 3.7575566,
+			 "mobile": 85.09225967
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 10781,
+			 "engagement": 14.64,
+			 "buying": 1.8,
+			 "bigbrowser": 26.95482794,
+			 "tablet": 4.266765606,
+			 "mobile": 68.77840646
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 330785,
+			 "engagement": 2.99,
+			 "buying": 6.11,
+			 "bigbrowser": 14.35494354,
+			 "tablet": 3.489880134,
+			 "mobile": 82.15517632
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 140287,
+			 "engagement": 3.28,
+			 "buying": 9.26,
+			 "bigbrowser": 19.82293441,
+			 "tablet": 3.791513112,
+			 "mobile": 76.38555247
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 102754,
+			 "engagement": 4.63,
+			 "buying": 7.1,
+			 "bigbrowser": 10.28670417,
+			 "tablet": 2.218891722,
+			 "mobile": 87.49440411
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 46674,
+			 "engagement": 3.51,
+			 "buying": 14.44,
+			 "bigbrowser": 19.78831898,
+			 "tablet": 2.665295454,
+			 "mobile": 77.54638557
+		  }
+	]},
+	{"year":"Feb-18","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 42648,
+			 "engagement": 9.14,
+			 "buying": 0.76,
+			 "bigbrowser": 9.533858563,
+			 "tablet": 3.078690677,
+			 "mobile": 87.38745076
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 36766,
+			 "engagement": 4.54,
+			 "buying": 0.48,
+			 "bigbrowser": 58.22499048,
+			 "tablet": 1.89033346,
+			 "mobile": 39.88467606
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 454942,
+			 "engagement": 1.73,
+			 "buying": 3.31,
+			 "bigbrowser": 12.55258912,
+			 "tablet": 2.273696427,
+			 "mobile": 85.17371445
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 434921,
+			 "engagement": 1.04,
+			 "buying": 3.19,
+			 "bigbrowser": 7.568500946,
+			 "tablet": 1.325298158,
+			 "mobile": 91.1062009
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 104251,
+			 "engagement": 4.85,
+			 "buying": 7.83,
+			 "bigbrowser": 9.302548657,
+			 "tablet": 1.805258463,
+			 "mobile": 88.89219288
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 42016,
+			 "engagement": 3.67,
+			 "buying": 14.96,
+			 "bigbrowser": 18.75476009,
+			 "tablet": 2.092060168,
+			 "mobile": 79.15317974
+		  }
+	]},
+	{"year":"Mar-18","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 42689,
+			 "engagement": 9.73,
+			 "buying": 0.75,
+			 "bigbrowser": 7.620230036,
+			 "tablet": 2.185574738,
+			 "mobile": 90.19419523
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 26960,
+			 "engagement": 6.8,
+			 "buying": 0.68,
+			 "bigbrowser": 47.39985163,
+			 "tablet": 2.132789318,
+			 "mobile": 50.46735905
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 331927,
+			 "engagement": 2.2,
+			 "buying": 3.14,
+			 "bigbrowser": 10.83702139,
+			 "tablet": 3.524570162,
+			 "mobile": 85.63840845
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 234706,
+			 "engagement": 2.52,
+			 "buying": 5.53,
+			 "bigbrowser": 11.65884127,
+			 "tablet": 2.920675228,
+			 "mobile": 85.4204835
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 249648,
+			 "engagement": 1.92,
+			 "buying": 2.56,
+			 "bigbrowser": 4.783535218,
+			 "tablet": 1.677562007,
+			 "mobile": 93.53890278
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 96596,
+			 "engagement": 1.66,
+			 "buying": 7.28,
+			 "bigbrowser": 13.67654975,
+			 "tablet": 17.6011429,
+			 "mobile": 68.72230734
+		  }
+	]},
+	{"year":"Apr-18","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 41929,
+			 "engagement": 7.77,
+			 "buying": 0.91,
+			 "bigbrowser": 7.519854993,
+			 "tablet": 1.640869088,
+			 "mobile": 90.83927592
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 16597,
+			 "engagement": 10.47,
+			 "buying": 1.49,
+			 "bigbrowser": 21.24480328,
+			 "tablet": 2.97041634,
+			 "mobile": 75.78478038
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 399321,
+			 "engagement": 1.97,
+			 "buying": 4.22,
+			 "bigbrowser": 10.62253175,
+			 "tablet": 3.128811157,
+			 "mobile": 86.2486571
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 246931,
+			 "engagement": 2.55,
+			 "buying": 3.64,
+			 "bigbrowser": 14.20194305,
+			 "tablet": 3.617204806,
+			 "mobile": 82.18085214
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 520713,
+			 "engagement": 0.75,
+			 "buying": 1.45,
+			 "bigbrowser": 5.308298429,
+			 "tablet": 2.029140813,
+			 "mobile": 92.66256076
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 222744,
+			 "engagement": 0.72,
+			 "buying": 1.26,
+			 "bigbrowser": 10.86449018,
+			 "tablet": 10.63283411,
+			 "mobile": 78.50267572
+		  }
+	]},
+	{"year":"May-18","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 92164,
+			 "engagement": 5.83,
+			 "buying": 31.06,
+			 "bigbrowser": 6.562215182,
+			 "tablet": 1.854303199,
+			 "mobile": 91.58348162
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 80307,
+			 "engagement": 4.01,
+			 "buying": 15.91,
+			 "bigbrowser": 8.428904081,
+			 "tablet": 7.232246255,
+			 "mobile": 84.33884966
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 463588,
+			 "engagement": 1.8,
+			 "buying": 23.06,
+			 "bigbrowser": 8.824430313,
+			 "tablet": 3.566528901,
+			 "mobile": 87.60904079
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 208579,
+			 "engagement": 3.14,
+			 "buying": 10.12,
+			 "bigbrowser": 14.95500506,
+			 "tablet": 2.741886767,
+			 "mobile": 82.30310817
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 335088,
+			 "engagement": 1.03,
+			 "buying": 5.71,
+			 "bigbrowser": 5.054194719,
+			 "tablet": 3.647698515,
+			 "mobile": 91.29810677
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 168677,
+			 "engagement": 1.12,
+			 "buying": 10.11,
+			 "bigbrowser": 10.69736834,
+			 "tablet": 3.811426573,
+			 "mobile": 85.49120508
+		  }
+	]},
+	{"year":"Jun-18","performance": [
+		  {
+			 "market": "KSA",
+			 "name": "Escalate",
+			 "brand": "Escalate KSA",
+			 "visits": 45893,
+			 "engagement": 8.23,
+			 "buying": 38.26,
+			 "bigbrowser": 8.761684789,
+			 "tablet": 1.865208202,
+			 "mobile": 89.37310701
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Escalate",
+			 "brand": "Escalate UAE",
+			 "visits": 40682,
+			 "engagement": 5.4,
+			 "buying": 24.36,
+			 "bigbrowser": 14.17580257,
+			 "tablet": 4.965340937,
+			 "mobile": 80.8588565
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee KSA",
+			 "visits": 341985,
+			 "engagement": 1.81,
+			 "buying": 11.33,
+			 "bigbrowser": 7.468748629,
+			 "tablet": 1.866456131,
+			 "mobile": 90.66479524
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Bumblebee",
+			 "brand": "Bumblebee UAE",
+			 "visits": 196961,
+			 "engagement": 2.27,
+			 "buying": 7.78,
+			 "bigbrowser": 11.12555277,
+			 "tablet": 1.761262382,
+			 "mobile": 87.11318484
+		  },
+		  {
+			 "market": "KSA",
+			 "name": "Pro",
+			 "brand": "Pro KSA",
+			 "visits": 190198,
+			 "engagement": 1.21,
+			 "buying": 6.73,
+			 "bigbrowser": 6.444336954,
+			 "tablet": 4.863352927,
+			 "mobile": 88.69231012
+		  },
+		  {
+			 "market": "UAE",
+			 "name": "Pro",
+			 "brand": "Pro UAE",
+			 "visits": 108859,
+			 "engagement": 1.35,
+			 "buying": 10.42,
+			 "bigbrowser": 10.41255202,
+			 "tablet": 5.114873368,
+			 "mobile": 84.47257461
+		  }
+	]}
+]

@@ -1,0 +1,113 @@
+#chart-area svg {
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#logo {
+	height:50px;
+}
+
+.navbar-brand {
+	height: 60px;
+	padding: 5px 0px;
+}
+
+#reset-button, #play-button, #slider-div {
+	float: left;
+	margin-right:10px;
+}
+
+#slider-div {
+	width:300px;
+	margin-left:10px;
+}
+
+#reset-button, #play-button {
+	margin-top: 5px;
+	margin-bottom:10px;
+}
+
+#brand-select {
+	width: 250px;
+	float:right;
+	margin-top:5px;
+}
+.unselectable {
+	-moz-user-select: -moz-none;
+	-khtml-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+/* css formats for the gauge */
+.gauge .domain {
+	stroke-width: 2px;
+	stroke: #fff;
+}
+
+.gauge .tick line {
+	stroke: #fff;
+	stroke-width: 2px;
+}
+
+.gauge line {
+	stroke: #fff;
+}
+
+.gauge .arc, .gauge .cursor {
+	opacity: 0;
+}
+
+.gauge .major {
+	fill: #fff;
+	font-size: 20px;
+	font-family: 'Play', verdana, sans-serif;
+	font-weight: normal;
+}
+
+.gauge .indicator {
+	stroke: #EE3311;
+	fill: #000;
+	stroke-width: 4px;
+}
+
+/* css formats for the segment display */
+.segdisplay .on {
+	fill: #00FFFF;
+
+}
+
+.segdisplay .off {
+	fill: #00FFFF;
+	opacity: 0.15;
+}
+.label{
+	font-size:12px;
+	fill:#ffffff;
+	text-anchor:middle;
+	alignment-baseline:middle;
+}
+.face{
+	stroke:#c8c8c8;
+	stroke-width:2;
+}
+.minorTicks{
+	stroke-width:2;
+	stroke:white;
+}
+.majorTicks{
+	stroke:white;
+	stroke-width:3;
+}
+
+#ABC {
+      background-color: white;
+      border: 2px solid grey;
+}
+
+#XYZ {
+	font-color: white;
+	
+}
